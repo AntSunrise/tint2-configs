@@ -3,36 +3,36 @@
 # For information on manually configuring tint2 see http://code.google.com/p/tint2/wiki/Configure
 # Background definitions
 # ID 1
-rounded = 1
-border_width = 2
-background_color = #363636 100
-border_color = #FFFFFF 12
+rounded = 0
+border_width = 0
+background_color = #17181a 100
+border_color = #17181a 100
 # ID 2
-rounded = 1
-border_width = 2
-background_color = #363636 100
-border_color = #FFFFFF 84
+rounded = 0
+border_width = 0
+background_color = #17181a 100
+border_color = #17181a 100
 # ID 3
 rounded = 0
-border_width = 1
-background_color = #363636 100
-border_color = #FFFFFF 30
+border_width = 0
+background_color = #17181a 100
+border_color = #17181a 100
 # ID 4
-rounded = 1
-border_width = 2
-background_color = #363636 100
-border_color = #8C8080 86
+rounded = 0
+border_width = 0
+background_color = #17181a 100
+border_color = #17181a 86
 # ID 5
 rounded = 0
-border_width = 1
-background_color = #363636 100
-border_color = #FFFFFF 65
+border_width = 0
+background_color = #17181a 100
+border_color = #17181a 100
 # Panel
 panel_monitor = all
 panel_position = top center horizontal
-panel_size = 100% 30
+panel_size = 100% 28
 panel_margin = 0 0
-panel_padding = 2 0 2
+panel_padding = 0 0 2
 panel_dock = 0
 wm_menu = 1
 panel_layer = top
@@ -75,7 +75,7 @@ font_shadow = 0
 systray = 1
 systray_padding = 0 0 5
 systray_sort = ascending
-systray_background_id = 0
+systray_background_id = 1
 systray_icon_size = 16
 systray_icon_asb = 70 0 0
 # Clock
