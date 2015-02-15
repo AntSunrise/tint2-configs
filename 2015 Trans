@@ -15,7 +15,7 @@ border_color = #d8d8d8 90
 rounded = 2
 border_width = 1
 background_color = #d8d8d8 15
-border_color = #ffffff 90
+border_color = #ffffff 30
 
 # ID 4
 rounded = 1
@@ -33,7 +33,7 @@ border_color = #000000 60
 rounded = 0
 border_width = 1
 background_color = #000000 30
-border_color = #000000 60
+border_color = #000000 40
 
 # ID 7 - tooltip
 rounded = 3
