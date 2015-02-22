@@ -5,8 +5,8 @@
 # ID 1
 rounded = 0
 border_width = 0
-background_color = #17181a 100
-border_color = #17181a 100
+background_color = #1f1f1f 100
+border_color = #1f1f1f 100
 # ID 2
 rounded = 0
 border_width = 0
@@ -66,7 +66,7 @@ task_active_icon_asb = 100 0 0
 task_urgent_icon_asb = 100 0 0
 task_iconified_icon_asb = 70 0 -50
 # Fonts
-task_font = monaco 9
+task_font = monaco 10
 task_font_color = #FFFFFF 64
 task_active_font_color = #FFFFFF 80
 task_urgent_font_color = #FFFFFF 80
@@ -77,11 +77,11 @@ systray = 3
 systray_padding = 0 0 5
 systray_sort = ascending
 systray_background_id = 1
-systray_icon_size = 23
+systray_icon_size = 24
 systray_icon_asb = 70 0 0
 # Clock
 time1_format = %X
-time1_font = monaco 10
+time1_font = monaco 13
 clock_font_color = #FFFFFF 70
 clock_padding = 1 0
 clock_background_id = 3
